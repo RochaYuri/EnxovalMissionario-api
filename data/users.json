@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "USUÁRIO ROOT",
+    "username": "ROOT",
+    "password": "@r00t#",
+    "email": "enxovalmnissionarioroot@gmail.com",
+    "roles": [
+      "ADMIN",
+      "MISSIONARY"
+    ],
+    "createdAt": "01/01/2025, 00:00:00",
+    "createdBy": "root",
+    "updatedAt": "",
+    "updatedBy": ""
+  }
+]
